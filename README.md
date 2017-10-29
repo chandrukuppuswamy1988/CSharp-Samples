@@ -7,5 +7,5 @@ features of the C# language.
 
 Every project has the individual readme files contains the explanation of the project.
 
-This applications may not be complete just for the understanding purpose of the application.
+These applications may not be complete just for the understanding purpose of the application.
 
