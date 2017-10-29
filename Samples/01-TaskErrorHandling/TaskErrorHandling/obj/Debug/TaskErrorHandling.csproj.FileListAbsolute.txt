@@ -1,0 +1,7 @@
+E:\Repository\CSharp-Samples\CSharp-Samples\Samples\01-TaskErrorHandling\TaskErrorHandling\bin\Debug\TaskErrorHandling.exe.config
+E:\Repository\CSharp-Samples\CSharp-Samples\Samples\01-TaskErrorHandling\TaskErrorHandling\bin\Debug\TaskErrorHandling.exe
+E:\Repository\CSharp-Samples\CSharp-Samples\Samples\01-TaskErrorHandling\TaskErrorHandling\bin\Debug\TaskErrorHandling.pdb
+E:\Repository\CSharp-Samples\CSharp-Samples\Samples\01-TaskErrorHandling\TaskErrorHandling\obj\Debug\TaskErrorHandling.csprojResolveAssemblyReference.cache
+E:\Repository\CSharp-Samples\CSharp-Samples\Samples\01-TaskErrorHandling\TaskErrorHandling\obj\Debug\TaskErrorHandling.csproj.CoreCompileInputs.cache
+E:\Repository\CSharp-Samples\CSharp-Samples\Samples\01-TaskErrorHandling\TaskErrorHandling\obj\Debug\TaskErrorHandling.exe
+E:\Repository\CSharp-Samples\CSharp-Samples\Samples\01-TaskErrorHandling\TaskErrorHandling\obj\Debug\TaskErrorHandling.pdb
